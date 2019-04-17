@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: white;
+}
+
+
+.container{
+	padding-top:50px;
+	padding-right:100px;
+	padding-left:500px;
+	
+}
+
+.login{
+	background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
