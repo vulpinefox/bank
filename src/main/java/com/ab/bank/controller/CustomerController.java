@@ -145,7 +145,7 @@ public class CustomerController {
 		// Find the customer based on the id
 		Customer customer = customerService.findById(customerId);
 
-		//hello world
+		//hello world2
 		// Get the account balance of the customer
 		int currentBalance = customer.getAccountBalance();
 
